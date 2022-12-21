@@ -1,0 +1,6 @@
+ServerCore/x64/
+Binary/Debug/
+Binary/Release/
+.vs/
+GameServer/x64/
+DummyClient/x64/
